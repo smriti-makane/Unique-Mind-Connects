@@ -1,0 +1,10 @@
+{
+  "name": "Unique Minds Connect",
+  "description": "Personalized education platform with adaptive learning paths, gamified quizzes & puzzles, supportive sensory tools, and real-time emotion recognition for neurodiverse learners.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
